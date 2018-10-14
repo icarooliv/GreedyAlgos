@@ -1,0 +1,23 @@
+{
+  "name": "GreedyAlgos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "moedas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icarooliv/GreedyAlgos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icarooliv/GreedyAlgos/issues"
+  },
+  "homepage": "https://github.com/icarooliv/GreedyAlgos#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
